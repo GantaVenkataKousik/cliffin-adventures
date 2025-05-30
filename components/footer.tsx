@@ -12,7 +12,7 @@ export default function Footer() {
             <Link href="/" className="inline-block mb-6">
               <div className="bg-white p-2 rounded-md inline-block">
                 <Image
-                  src="/images/logo.svg"
+                  src="https://i.postimg.cc/PqbWFcZF/image-removebg-preview.png"
                   alt="Cliff-Inn Adventures Logo"
                   width={180}
                   height={60}

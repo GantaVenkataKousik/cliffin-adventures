@@ -43,7 +43,7 @@ export default function Header() {
           <Link href="/" className="flex items-center">
             {isScrolled ? (
               <Image
-                src="/images/logo.svg"
+                src="https://i.postimg.cc/PqbWFcZF/image-removebg-preview.png"
                 alt="Cliff-Inn Adventures Logo"
                 width={180}
                 height={60}
@@ -52,7 +52,7 @@ export default function Header() {
             ) : (
               <div className="bg-white/90 p-2 rounded-md">
                 <Image
-                  src="/images/logo.svg"
+                  src="https://i.postimg.cc/PqbWFcZF/image-removebg-preview.png"
                   alt="Cliff-Inn Adventures Logo"
                   width={180}
                   height={60}

@@ -42,7 +42,7 @@ export default function Home() {
           <div className="flex flex-col items-center mb-8">
             <div className="bg-white/90 p-4 rounded-xl mb-6">
               <Image
-                src="/images/logo.svg"
+                src="https://i.postimg.cc/PqbWFcZF/image-removebg-preview.png"
                 alt="Cliff-Inn Adventures Logo"
                 width={300}
                 height={100}

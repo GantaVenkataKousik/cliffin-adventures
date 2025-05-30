@@ -15,7 +15,10 @@ export const metadata: Metadata = {
   title: "Cliff-Inn Adventures | Premium Camping & Adventure Experiences",
   description:
     "Discover breathtaking camping and adventure experiences in the most beautiful wilderness locations. Book your unforgettable journey today.",
-    generator: 'v0.dev'
+  generator: 'v0.dev',
+  icons: {
+    icon: 'https://i.postimg.cc/PqbWFcZF/image-removebg-preview.png',
+  }
 }
 
 export default function RootLayout({
